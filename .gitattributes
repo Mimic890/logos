@@ -1,0 +1,19 @@
+# Vector masters stay diffable text
+*.svg       text eol=lf
+
+# Scripts must keep LF line endings
+*.sh        text eol=lf
+*.fish      text eol=lf
+
+# Raster images, design sources, documents, timestamp proofs
+*.png       binary
+*.jpg       binary
+*.jpeg      binary
+*.webp      binary
+*.ico       binary
+*.ai        binary
+*.psd       binary
+*.fig       binary
+*.afdesign  binary
+*.pdf       binary
+*.ots       binary

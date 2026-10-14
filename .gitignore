@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.directory
+.Trash-*
+
+# Editors
+.vscode/
+.idea/
+.zed/
+*.swp
+*.swo
+*~
+
+# Backups and temp files
+*.bak
+*.tmp
+*.orig
